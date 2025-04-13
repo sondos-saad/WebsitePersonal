@@ -1,13 +1,15 @@
 
 import './App.css'
+import Page from './components/Pages/Page'
 
 function App() {
 
 
   return (
     <>
-      <h1>hello</h1>
-    </>
+       <Page/>
+      
+    </> 
   )
 }
 
